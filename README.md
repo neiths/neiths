@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Huynh Ba Thien</h1>
-<h3 align="center">A passionate AI/Data science from VietNam</h3>
 
 - 📫 How to reach me **nieths.huynh@gmail.com**
 
